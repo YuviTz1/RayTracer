@@ -6,8 +6,8 @@
 #include<limits>
 #include<memory>
 #include<random>
-#include"ray.h"
-#include"vec3.h"
+//#include"ray.h"
+//#include"vec3.h"
 
 using std::shared_ptr;
 using std::make_shared;
